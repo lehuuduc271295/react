@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import reportWebVitals from './reportWebVitals';
-import Form from'./Form';
+import App from'./App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Form/>
+    <App/>
   </React.StrictMode>,document.getElementById('ID1')
 )
 
